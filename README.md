@@ -10,7 +10,7 @@ Locate the `environment.yml` file in your directory then use `mamba` or `conda` 
 mamba env create -f environment.yml -y
 ```
 
-## Error Resoultions
+## Error Resolutions
 
 Upon installation, you may encounter an error similar to the one below during model training with tensorflow models:
 
