@@ -7,7 +7,7 @@ Code and slide deck used in the midterm review session discussion for the ML3 co
 Locate the `environment.yml` file in your directory then use `mamba` or `conda` to install it in your machine. Use the environment to ensure consistent versions of the libraries are used with the ones in the notebook.
 
 ```
-mamba env create -f environment.yml -y
+mamba env create -f environment.yml -y -p <some folder ex. ~/.conda/envs/msds2025-ml3-review`>
 ```
 
 ## Error Resolutions
